@@ -1,0 +1,7 @@
+{
+    "name": "fastapi-heroku",
+    "description": "Reproduce the issue on stackoverflow.",
+    "image": "heroku/python",
+    "repository": "https://github.com/sadikkuzu/fastapi-heroku",
+    "keywords": ["python", "fastapi" ]
+}
