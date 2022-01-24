@@ -17,4 +17,4 @@ uvicorn main:app --reload
 ### Deployment
 
 [Heroku](https://heroku.com) <br/>
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadikkuzu/fastapi-heroku/tree/main)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadikkuzu/fastapi-heroku/tree/requierements-typo)
