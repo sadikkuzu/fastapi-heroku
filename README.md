@@ -2,6 +2,8 @@
 
 ## Reproduction of [FastAPI deploy in heroku giving an error h10](https://stackoverflow.com/questions/68755702/fastapi-deploy-in-heroku-giving-an-error-h10)
 
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/fastapi-heroku/main.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/fastapi-heroku/main)
+
 ### Development
 
 ```
