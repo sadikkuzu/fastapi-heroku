@@ -189,6 +189,7 @@ here you will be not asked to build and run the image , you have to simply write
 docker-compose up  --> to run
 docker-compose down --> to stop
 ```
+to run this in background you can add & sign at the end of command.
 Now after running this application with docker-compose up
 you can visit localhost:8000 or your terminal and access this application on your browser.
 
