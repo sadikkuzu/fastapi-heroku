@@ -165,7 +165,9 @@ web: uvicorn main:app --host=0.0.0.0 --port=${PORT:-5000}
 </details>
 
 **To Run application using Docker**
-First of all we will create a image using this command , you choose any name, here i took myfast-api
+
+First of all we will create a image using this command , 
+you choose any name, here i took myfast-api
 ```bash
 docker build -t myfast-api .              
 ```
@@ -183,6 +185,7 @@ docker ps -a
 ```
 
 **Using docker-compose to run this**
+
 If you want to directly run with Docker-compose
 here you will be not asked to build and run the image , you have to simply write this command.
 ```zsh
