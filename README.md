@@ -18,7 +18,9 @@ uvicorn main:app --reload
 
 ### Local Run
 
-``` docker-compose up --build -d ```
+```
+docker-compose up --build -d
+```
 
 http://localhost:8000/docs
 
