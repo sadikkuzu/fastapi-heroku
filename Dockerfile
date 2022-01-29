@@ -8,4 +8,4 @@ RUN python3 -m pip install -qUr requirements.txt
 
 EXPOSE 8000
 
-ENTRYPOINT ["./entrypoint.sh"]
+ENTRYPOINT ["sh","/entrypoint.sh"]
