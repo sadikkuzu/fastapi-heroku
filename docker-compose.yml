@@ -1,4 +1,3 @@
-<<<<<<< HEAD
   version: '3.9'
   services:
       web:
@@ -7,21 +6,3 @@
               dockerfile: Dockerfile
           ports:
               - "8000:8000"
-
-=======
-version: '3.9'
-
-services:
-
-    web:
-
-        build:
-
-            context: .
-
-            dockerfile: Dockerfile
-
-        ports:
-
-            - "8000:8000"
->>>>>>> ab0844c2b05620a424b2cd62f36079b43fe39456
