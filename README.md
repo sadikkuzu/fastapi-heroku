@@ -16,6 +16,12 @@ pre-commit run --all-files
 uvicorn main:app --reload
 ```
 
+### Local Run
+
+``` docker-compose up --build -d ```
+
+http://localhost:8000/docs
+
 ### Deployment
 
 [Heroku](https://heroku.com)
